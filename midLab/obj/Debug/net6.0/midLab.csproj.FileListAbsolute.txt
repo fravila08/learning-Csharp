@@ -1,0 +1,15 @@
+/Users/franciscoavila/Desktop/C# Projects/midLab/bin/Debug/net6.0/midLab
+/Users/franciscoavila/Desktop/C# Projects/midLab/bin/Debug/net6.0/midLab.deps.json
+/Users/franciscoavila/Desktop/C# Projects/midLab/bin/Debug/net6.0/midLab.runtimeconfig.json
+/Users/franciscoavila/Desktop/C# Projects/midLab/bin/Debug/net6.0/midLab.dll
+/Users/franciscoavila/Desktop/C# Projects/midLab/bin/Debug/net6.0/midLab.pdb
+/Users/franciscoavila/Desktop/C# Projects/midLab/obj/Debug/net6.0/midLab.csproj.AssemblyReference.cache
+/Users/franciscoavila/Desktop/C# Projects/midLab/obj/Debug/net6.0/midLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscoavila/Desktop/C# Projects/midLab/obj/Debug/net6.0/midLab.AssemblyInfoInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/midLab/obj/Debug/net6.0/midLab.AssemblyInfo.cs
+/Users/franciscoavila/Desktop/C# Projects/midLab/obj/Debug/net6.0/midLab.csproj.CoreCompileInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/midLab/obj/Debug/net6.0/midLab.dll
+/Users/franciscoavila/Desktop/C# Projects/midLab/obj/Debug/net6.0/refint/midLab.dll
+/Users/franciscoavila/Desktop/C# Projects/midLab/obj/Debug/net6.0/midLab.pdb
+/Users/franciscoavila/Desktop/C# Projects/midLab/obj/Debug/net6.0/midLab.genruntimeconfig.cache
+/Users/franciscoavila/Desktop/C# Projects/midLab/obj/Debug/net6.0/ref/midLab.dll

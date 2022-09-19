@@ -1,0 +1,15 @@
+/Users/franciscoavila/Desktop/C# Projects/dateProfile/bin/Debug/net6.0/dateProfile
+/Users/franciscoavila/Desktop/C# Projects/dateProfile/bin/Debug/net6.0/dateProfile.deps.json
+/Users/franciscoavila/Desktop/C# Projects/dateProfile/bin/Debug/net6.0/dateProfile.runtimeconfig.json
+/Users/franciscoavila/Desktop/C# Projects/dateProfile/bin/Debug/net6.0/dateProfile.dll
+/Users/franciscoavila/Desktop/C# Projects/dateProfile/bin/Debug/net6.0/dateProfile.pdb
+/Users/franciscoavila/Desktop/C# Projects/dateProfile/obj/Debug/net6.0/dateProfile.csproj.AssemblyReference.cache
+/Users/franciscoavila/Desktop/C# Projects/dateProfile/obj/Debug/net6.0/dateProfile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscoavila/Desktop/C# Projects/dateProfile/obj/Debug/net6.0/dateProfile.AssemblyInfoInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/dateProfile/obj/Debug/net6.0/dateProfile.AssemblyInfo.cs
+/Users/franciscoavila/Desktop/C# Projects/dateProfile/obj/Debug/net6.0/dateProfile.csproj.CoreCompileInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/dateProfile/obj/Debug/net6.0/dateProfile.dll
+/Users/franciscoavila/Desktop/C# Projects/dateProfile/obj/Debug/net6.0/refint/dateProfile.dll
+/Users/franciscoavila/Desktop/C# Projects/dateProfile/obj/Debug/net6.0/dateProfile.pdb
+/Users/franciscoavila/Desktop/C# Projects/dateProfile/obj/Debug/net6.0/dateProfile.genruntimeconfig.cache
+/Users/franciscoavila/Desktop/C# Projects/dateProfile/obj/Debug/net6.0/ref/dateProfile.dll
