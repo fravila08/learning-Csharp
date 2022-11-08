@@ -1,0 +1,15 @@
+/Users/franciscoavila/Desktop/C# Projects/todoList/bin/Debug/net6.0/todoList
+/Users/franciscoavila/Desktop/C# Projects/todoList/bin/Debug/net6.0/todoList.deps.json
+/Users/franciscoavila/Desktop/C# Projects/todoList/bin/Debug/net6.0/todoList.runtimeconfig.json
+/Users/franciscoavila/Desktop/C# Projects/todoList/bin/Debug/net6.0/todoList.dll
+/Users/franciscoavila/Desktop/C# Projects/todoList/bin/Debug/net6.0/todoList.pdb
+/Users/franciscoavila/Desktop/C# Projects/todoList/obj/Debug/net6.0/todoList.csproj.AssemblyReference.cache
+/Users/franciscoavila/Desktop/C# Projects/todoList/obj/Debug/net6.0/todoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscoavila/Desktop/C# Projects/todoList/obj/Debug/net6.0/todoList.AssemblyInfoInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/todoList/obj/Debug/net6.0/todoList.AssemblyInfo.cs
+/Users/franciscoavila/Desktop/C# Projects/todoList/obj/Debug/net6.0/todoList.csproj.CoreCompileInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/todoList/obj/Debug/net6.0/todoList.dll
+/Users/franciscoavila/Desktop/C# Projects/todoList/obj/Debug/net6.0/refint/todoList.dll
+/Users/franciscoavila/Desktop/C# Projects/todoList/obj/Debug/net6.0/todoList.pdb
+/Users/franciscoavila/Desktop/C# Projects/todoList/obj/Debug/net6.0/todoList.genruntimeconfig.cache
+/Users/franciscoavila/Desktop/C# Projects/todoList/obj/Debug/net6.0/ref/todoList.dll
