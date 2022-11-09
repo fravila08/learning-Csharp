@@ -1,0 +1,15 @@
+/Users/franciscoavila/Desktop/C# Projects/supernaturalInheritance/bin/Debug/net6.0/supernaturalInheritance
+/Users/franciscoavila/Desktop/C# Projects/supernaturalInheritance/bin/Debug/net6.0/supernaturalInheritance.deps.json
+/Users/franciscoavila/Desktop/C# Projects/supernaturalInheritance/bin/Debug/net6.0/supernaturalInheritance.runtimeconfig.json
+/Users/franciscoavila/Desktop/C# Projects/supernaturalInheritance/bin/Debug/net6.0/supernaturalInheritance.dll
+/Users/franciscoavila/Desktop/C# Projects/supernaturalInheritance/bin/Debug/net6.0/supernaturalInheritance.pdb
+/Users/franciscoavila/Desktop/C# Projects/supernaturalInheritance/obj/Debug/net6.0/supernaturalInheritance.csproj.AssemblyReference.cache
+/Users/franciscoavila/Desktop/C# Projects/supernaturalInheritance/obj/Debug/net6.0/supernaturalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscoavila/Desktop/C# Projects/supernaturalInheritance/obj/Debug/net6.0/supernaturalInheritance.AssemblyInfoInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/supernaturalInheritance/obj/Debug/net6.0/supernaturalInheritance.AssemblyInfo.cs
+/Users/franciscoavila/Desktop/C# Projects/supernaturalInheritance/obj/Debug/net6.0/supernaturalInheritance.csproj.CoreCompileInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/supernaturalInheritance/obj/Debug/net6.0/supernaturalInheritance.dll
+/Users/franciscoavila/Desktop/C# Projects/supernaturalInheritance/obj/Debug/net6.0/refint/supernaturalInheritance.dll
+/Users/franciscoavila/Desktop/C# Projects/supernaturalInheritance/obj/Debug/net6.0/supernaturalInheritance.pdb
+/Users/franciscoavila/Desktop/C# Projects/supernaturalInheritance/obj/Debug/net6.0/supernaturalInheritance.genruntimeconfig.cache
+/Users/franciscoavila/Desktop/C# Projects/supernaturalInheritance/obj/Debug/net6.0/ref/supernaturalInheritance.dll
