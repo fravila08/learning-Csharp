@@ -1,0 +1,15 @@
+/Users/franciscoavila/Desktop/C# Projects/optimalChange/obj/Debug/net6.0/optimalChange.csproj.AssemblyReference.cache
+/Users/franciscoavila/Desktop/C# Projects/optimalChange/obj/Debug/net6.0/optimalChange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscoavila/Desktop/C# Projects/optimalChange/obj/Debug/net6.0/optimalChange.AssemblyInfoInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/optimalChange/obj/Debug/net6.0/optimalChange.AssemblyInfo.cs
+/Users/franciscoavila/Desktop/C# Projects/optimalChange/obj/Debug/net6.0/optimalChange.csproj.CoreCompileInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/optimalChange/bin/Debug/net6.0/optimalChange
+/Users/franciscoavila/Desktop/C# Projects/optimalChange/bin/Debug/net6.0/optimalChange.deps.json
+/Users/franciscoavila/Desktop/C# Projects/optimalChange/bin/Debug/net6.0/optimalChange.runtimeconfig.json
+/Users/franciscoavila/Desktop/C# Projects/optimalChange/bin/Debug/net6.0/optimalChange.dll
+/Users/franciscoavila/Desktop/C# Projects/optimalChange/bin/Debug/net6.0/optimalChange.pdb
+/Users/franciscoavila/Desktop/C# Projects/optimalChange/obj/Debug/net6.0/optimalChange.dll
+/Users/franciscoavila/Desktop/C# Projects/optimalChange/obj/Debug/net6.0/refint/optimalChange.dll
+/Users/franciscoavila/Desktop/C# Projects/optimalChange/obj/Debug/net6.0/optimalChange.pdb
+/Users/franciscoavila/Desktop/C# Projects/optimalChange/obj/Debug/net6.0/optimalChange.genruntimeconfig.cache
+/Users/franciscoavila/Desktop/C# Projects/optimalChange/obj/Debug/net6.0/ref/optimalChange.dll
