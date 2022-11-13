@@ -28,7 +28,18 @@ public class Client
                 return customer;
             }
         }
-        throw new NullReferenceException("This customer does not exist");
+        return allClients[0];
+    }
+    public static bool ValidId(char id)
+    {
+        string trueId = id.ToString();
+        foreach (Client customer in allClients)
+        {
+            if(customer.Id == trueId){
+                return true;
+            }
+        }
+        return false;
     }
     
 }

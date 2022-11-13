@@ -32,4 +32,13 @@ public class Videos
         }
         throw new NullReferenceException("This video does not exist");
     }
+    public static bool VideoExist(string enteredTitle)
+    {
+        foreach(Videos video in allvideos){
+            if(video.Title == enteredTitle){
+                return true;
+            }
+        }
+        return false;
+    }
 }

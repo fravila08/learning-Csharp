@@ -3,7 +3,7 @@ Store m = new Store("blockbuster");
 bool runner=true;
 Console.WriteLine($"Welcome to {m.Name}!");
 while(runner){
-    Console.WriteLine($"Please choose an option below:\n     1.View Inventory\n     2.View Your Information\n     3.Rent A Video\n     4.Return A Video\n     5. Create A Customer\n     6.QUIT\n---enter a number for your option---");
+    Console.WriteLine($"Please choose an option below:\n     1.View Inventory\n     2.View Your Information\n     3.Rent A Video\n     4.Return A Video\n     5.Create A Customer\n     6.QUIT\n---enter a number for your option---");
     string choice=Console.ReadLine();
     char[] trueChoice= choice.ToCharArray();
     char myChoice = trueChoice[0];
