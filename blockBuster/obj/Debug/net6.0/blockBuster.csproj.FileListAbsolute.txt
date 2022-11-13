@@ -1,0 +1,17 @@
+/Users/franciscoavila/Desktop/C# Projects/blockBuster/obj/Debug/net6.0/blockBuster.csproj.AssemblyReference.cache
+/Users/franciscoavila/Desktop/C# Projects/blockBuster/obj/Debug/net6.0/blockBuster.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscoavila/Desktop/C# Projects/blockBuster/obj/Debug/net6.0/blockBuster.AssemblyInfoInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/blockBuster/obj/Debug/net6.0/blockBuster.AssemblyInfo.cs
+/Users/franciscoavila/Desktop/C# Projects/blockBuster/obj/Debug/net6.0/blockBuster.csproj.CoreCompileInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/blockBuster/bin/Debug/net6.0/blockBuster
+/Users/franciscoavila/Desktop/C# Projects/blockBuster/bin/Debug/net6.0/blockBuster.deps.json
+/Users/franciscoavila/Desktop/C# Projects/blockBuster/bin/Debug/net6.0/blockBuster.runtimeconfig.json
+/Users/franciscoavila/Desktop/C# Projects/blockBuster/bin/Debug/net6.0/blockBuster.dll
+/Users/franciscoavila/Desktop/C# Projects/blockBuster/bin/Debug/net6.0/blockBuster.pdb
+/Users/franciscoavila/Desktop/C# Projects/blockBuster/obj/Debug/net6.0/blockBuster.dll
+/Users/franciscoavila/Desktop/C# Projects/blockBuster/obj/Debug/net6.0/refint/blockBuster.dll
+/Users/franciscoavila/Desktop/C# Projects/blockBuster/obj/Debug/net6.0/blockBuster.pdb
+/Users/franciscoavila/Desktop/C# Projects/blockBuster/obj/Debug/net6.0/blockBuster.genruntimeconfig.cache
+/Users/franciscoavila/Desktop/C# Projects/blockBuster/obj/Debug/net6.0/ref/blockBuster.dll
+/Users/franciscoavila/Desktop/C# Projects/blockBuster/bin/Debug/net6.0/LINQtoCSV.dll
+/Users/franciscoavila/Desktop/C# Projects/blockBuster/obj/Debug/net6.0/blockBuster.csproj.CopyComplete

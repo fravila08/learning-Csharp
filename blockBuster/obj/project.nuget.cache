@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gj8Fgs5Pd+WwvDq2r/JLWC3W/kLzF+Z6uTHjcZalJwzmUamCukXzeY79Oo647NOVwB9EUun/qz3LmwGJIBlAkA==",
+  "success": true,
+  "projectFilePath": "/Users/franciscoavila/Desktop/C# Projects/blockBuster/blockBuster.csproj",
+  "expectedPackageFiles": [
+    "/Users/franciscoavila/.nuget/packages/linqtocsv/1.5.0/linqtocsv.1.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'LINQtoCSV 1.5.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "LINQtoCSV",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
