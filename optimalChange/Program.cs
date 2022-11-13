@@ -1,8 +1,12 @@
 ﻿// public Dictionary<string, double> legend = new Dictionary<string, double>();
 
-OptimalChange(37.23, 93.75);
+OptimalChange(34.34, 93.75);
 void OptimalChange(double cost, double paid){
     double change = Math.Round(paid - cost, 2);
+    if (change<0){
+        Console.WriteLine("Invalid Input");
+        return;
+    }
     Dictionary <string, double> Legend = new Dictionary<string, double>();
     Legend.Add("100 Dollar Bill", 100.00);
     Legend.Add("50 Dollar Bill", 50.00);
