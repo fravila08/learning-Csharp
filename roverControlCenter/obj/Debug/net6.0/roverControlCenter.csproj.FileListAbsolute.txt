@@ -1,0 +1,15 @@
+/Users/franciscoavila/Desktop/C# Projects/roverControlCenter/obj/Debug/net6.0/roverControlCenter.csproj.AssemblyReference.cache
+/Users/franciscoavila/Desktop/C# Projects/roverControlCenter/obj/Debug/net6.0/roverControlCenter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscoavila/Desktop/C# Projects/roverControlCenter/obj/Debug/net6.0/roverControlCenter.AssemblyInfoInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/roverControlCenter/obj/Debug/net6.0/roverControlCenter.AssemblyInfo.cs
+/Users/franciscoavila/Desktop/C# Projects/roverControlCenter/obj/Debug/net6.0/roverControlCenter.csproj.CoreCompileInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/roverControlCenter/bin/Debug/net6.0/roverControlCenter
+/Users/franciscoavila/Desktop/C# Projects/roverControlCenter/bin/Debug/net6.0/roverControlCenter.deps.json
+/Users/franciscoavila/Desktop/C# Projects/roverControlCenter/bin/Debug/net6.0/roverControlCenter.runtimeconfig.json
+/Users/franciscoavila/Desktop/C# Projects/roverControlCenter/bin/Debug/net6.0/roverControlCenter.dll
+/Users/franciscoavila/Desktop/C# Projects/roverControlCenter/bin/Debug/net6.0/roverControlCenter.pdb
+/Users/franciscoavila/Desktop/C# Projects/roverControlCenter/obj/Debug/net6.0/roverControlCenter.dll
+/Users/franciscoavila/Desktop/C# Projects/roverControlCenter/obj/Debug/net6.0/refint/roverControlCenter.dll
+/Users/franciscoavila/Desktop/C# Projects/roverControlCenter/obj/Debug/net6.0/roverControlCenter.pdb
+/Users/franciscoavila/Desktop/C# Projects/roverControlCenter/obj/Debug/net6.0/roverControlCenter.genruntimeconfig.cache
+/Users/franciscoavila/Desktop/C# Projects/roverControlCenter/obj/Debug/net6.0/ref/roverControlCenter.dll
