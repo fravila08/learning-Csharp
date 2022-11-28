@@ -1,0 +1,15 @@
+/Users/franciscoavila/Desktop/C# Projects/programmingLanguages/bin/Debug/net6.0/programmingLanguages
+/Users/franciscoavila/Desktop/C# Projects/programmingLanguages/bin/Debug/net6.0/programmingLanguages.deps.json
+/Users/franciscoavila/Desktop/C# Projects/programmingLanguages/bin/Debug/net6.0/programmingLanguages.runtimeconfig.json
+/Users/franciscoavila/Desktop/C# Projects/programmingLanguages/bin/Debug/net6.0/programmingLanguages.dll
+/Users/franciscoavila/Desktop/C# Projects/programmingLanguages/bin/Debug/net6.0/programmingLanguages.pdb
+/Users/franciscoavila/Desktop/C# Projects/programmingLanguages/obj/Debug/net6.0/programmingLanguages.csproj.AssemblyReference.cache
+/Users/franciscoavila/Desktop/C# Projects/programmingLanguages/obj/Debug/net6.0/programmingLanguages.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscoavila/Desktop/C# Projects/programmingLanguages/obj/Debug/net6.0/programmingLanguages.AssemblyInfoInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/programmingLanguages/obj/Debug/net6.0/programmingLanguages.AssemblyInfo.cs
+/Users/franciscoavila/Desktop/C# Projects/programmingLanguages/obj/Debug/net6.0/programmingLanguages.csproj.CoreCompileInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/programmingLanguages/obj/Debug/net6.0/programmingLanguages.dll
+/Users/franciscoavila/Desktop/C# Projects/programmingLanguages/obj/Debug/net6.0/refint/programmingLanguages.dll
+/Users/franciscoavila/Desktop/C# Projects/programmingLanguages/obj/Debug/net6.0/programmingLanguages.pdb
+/Users/franciscoavila/Desktop/C# Projects/programmingLanguages/obj/Debug/net6.0/programmingLanguages.genruntimeconfig.cache
+/Users/franciscoavila/Desktop/C# Projects/programmingLanguages/obj/Debug/net6.0/ref/programmingLanguages.dll
